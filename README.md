@@ -18,5 +18,5 @@ thousandseperator(250000);
 ## More Info
 
 thousand seperator only accept one argument.
-* *number* - the _number to be seperated
+* *number* - the number to be seperated
 
