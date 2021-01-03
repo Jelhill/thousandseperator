@@ -1,5 +1,5 @@
 
-function thousandseperator(number){
+function thousandseparator(number){
 
     if(typeof number !== "number") {
         return "Expected a number but got a " + typeof number
@@ -7,4 +7,4 @@ function thousandseperator(number){
     return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
 }
 
-module.exports.thousandseperator = thousandseperator
+module.exports.thousandseparator = thousandseparator

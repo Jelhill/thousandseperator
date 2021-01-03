@@ -1,0 +1,19 @@
+{
+  "name": "sep",
+  "version": "1.0.0",
+  "description": "Thousand Seperator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jelhill/thousandseperator.git"
+  },
+  "author": "Jelili Umaru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jelhill/thousandseperator/issues"
+  },
+  "homepage": "https://github.com/Jelhill/thousandseperator#readme"
+}
