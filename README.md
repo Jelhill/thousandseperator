@@ -4,19 +4,19 @@ Easily seperate your number by thousands
 
 # Installation here
 
-`npm i thousandseperator --save`
+`npm i thousandseparator --save`
 
 Then...
 
 ```
-import { thousandseperator } from 'thousandseperator';
+import { thousandseparator } from 'thousandseparator';
 
-thousandseperator(250000);
+thousandseparator(250000);
 
 ```
 
 ## More Info
 
 thousand seperator only accept one argument.
-* *number* - the number to be seperated
+* *number* - the number to be separated
 
