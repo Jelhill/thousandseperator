@@ -1,5 +1,5 @@
 {
-  "name": "sep",
+  "name": "numberseperatedbythousand",
   "version": "1.0.0",
   "description": "Thousand Seperator",
   "main": "index.js",

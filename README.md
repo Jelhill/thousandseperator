@@ -20,3 +20,5 @@ thousandseparator(250000);
 thousand seperator only accept one argument.
 * *number* - the number to be separated
 
+# Author
+Jelili Umaru
